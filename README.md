@@ -1,7 +1,8 @@
 # Anti-PG | Created for RP servers
 
 Standalone script by Lirol & Polini for DespistaosRP (Now released on FiveM forum)
-FUCK DESPISTAOS
+
+# FUCK DESPISTAOS
 
 # Requirements
 
