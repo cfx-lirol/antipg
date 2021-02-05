@@ -1,6 +1,7 @@
 # Anti-PG | Created for RP servers
 
-Standalone script for community of FiveM (CFX.RE Collective)
+Standalone script by Lirol & Polini for DespistaosRP (Now released on FiveM forum)
+FUCK DESPISTAOS
 
 # Requirements
 
