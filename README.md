@@ -12,4 +12,4 @@ Standalone script by Lirol & Polini for DespistaosRP (Now released on FiveM foru
 
 You can contact me on Discord, if you have any question.
 
-- Sosa#2021
+- Lirol#0461
